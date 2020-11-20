@@ -1,0 +1,36 @@
+{
+  "name": "agne-portfolio-node",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Agne Siupsinskaite - Portfolio",
+  "keywords": [
+    "frontity"
+  ],
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "scripts": {
+    "dev": "frontity dev",
+    "build": "frontity build",
+    "serve": "frontity serve"
+  },
+  "prettier": {},
+  "dependencies": {
+    "@frontity/core": "^1.9.0",
+    "@frontity/html2react": "^1.4.0",
+    "@frontity/tiny-router": "^1.2.2",
+    "@frontity/wp-source": "^1.9.1",
+    "agne-portfolio": "./packages/agne-portfolio",
+    "@glidejs/glide": "^3.4.1",
+    "@lottiefiles/lottie-player": "^0.5.1",
+    "frontity": "^1.12.0",
+    "gsap": "^3.5.1",
+    "keygenerator": "^1.0.4",
+    "lottie-react": "^2.1.0",
+    "prop-types": "^15.7.2",
+    "react-dom": "^16.14.0",
+    "react-glidejs": "^1.0.8",
+    "react-spring": "^8.0.27"
+  }
+}
