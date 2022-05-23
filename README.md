@@ -1,1 +1,1 @@
-This portfolio was built using Frontity framework as a middleman. Wordpress is used as CMS, so the user can change the content by its liking.
+This portfolio was built using Frontity framework as a middleman. It allows using React instead of default PHP for the Wordpress themes. Wordpress is used as CMS, so the user can change the content by its liking.
